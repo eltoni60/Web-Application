@@ -1,5 +1,4 @@
 # Web-Application
-# Completion Date estimated to be on December 14, 2018
 CS 419 web application: Code name GCTV
 This is the project for the CS 419 Java Programing and Web Development at Elmhurst College Fall 2018 semester.
 
@@ -17,4 +16,10 @@ Servlets were also implemented to do validate and produce the correct data to di
 The following are screen shots of the web application running.
 
 
-![Alt text](/Web-Application/Presentation Material/1.png?raw=true "Welcom Page")
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/1.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/2.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/3.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/4.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/5.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/6.png)
+![ScreenShot](https://raw.github.com/elTONI60/Web-Application/master/PresentationMaterial/site_map_final.png "Site Map")
