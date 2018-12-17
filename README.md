@@ -16,4 +16,5 @@ Servlets were also implemented to do validate and produce the correct data to di
 
 The following are screen shots of the web application running.
 
-<To be added later>
+
+![Alt text](/Web-Application/Presentation Material/1.png?raw=true "Welcom Page")
